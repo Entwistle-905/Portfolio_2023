@@ -2,8 +2,8 @@ html, body{
     margin: 10px;
     background-color: #4e2271;
     color: #dd95bd;
-    /*font-family: 'november';
-    src: url("./Assets/november.ttf") format('truetype');*/
+    font-family: 'november';
+    src: url("./Assets/november.ttf") format('truetype');
     text-align-last: center;
     min-width: fit-content;
 }
@@ -11,15 +11,15 @@ html, body{
 h1{
     color: #eea5cd;
     font-size: 40px;
-    /*font-family: 'november';
-    src: url("./Assets/november.ttf") format('truetype');*/
+    font-family: 'november';
+    src: url("./Assets/november.ttf") format('truetype');
     text-align-last: center;
 }
 
 p{
     color: #dd95bd;
-    /*font-family: 'november';
-    src: url("./Assets/november.ttf") format('truetype');*/
+    font-family: 'november';
+    src: url("./Assets/november.ttf") format('truetype');
     text-align-last: center;
     font-size: 16px;
 }
@@ -39,6 +39,31 @@ nav {
 }
 
 
+
+a:link {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(179, 179, 179);
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: rgb(0, 255, 13);
+    background-color: transparent;
+    text-decoration: underline;
+}
+
 .div-selections:hover{
     transition: 1.5s;
     -webkit-transform: scale(1.05);
@@ -51,8 +76,8 @@ nav {
 .nav-selections {
     text-transform: uppercase;
     letter-spacing: 5px;
-    /*font-family: 'november';
-    src: url("./Assets/november.ttf") format('truetype');*/
+    font-family: 'november';
+    src: url("./Assets/november.ttf") format('truetype');
     font-size: 16px;
     display: inline-block;
     text-decoration: none;
@@ -111,6 +136,18 @@ nav {
     left: 300px;
     width: 160px;
 }
+
+
+
+.bodyfont{
+    font-family: 'november';
+    src: url("./Assets/november.ttf") format('truetype');
+}
+
+.boldtext{
+    font-weight: bold;
+}
+
 
 
 #copyright

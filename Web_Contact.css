@@ -33,6 +33,31 @@ nav {
     top: 0;
 }
 
+
+a:link {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(179, 179, 179);
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: rgb(0, 255, 13);
+    background-color: transparent;
+    text-decoration: underline;
+}
+
 .nav-selections {
     text-transform: uppercase;
     letter-spacing: 5px;
@@ -55,9 +80,6 @@ nav {
 
 
 #sticky {
-    /*
-    background-image: url("https://thumbs.dreamstime.com/b/long-road-4344318.jpg");
-    */
     background-color: #9c4a93;
     overflow: auto;
     list-style-type: none;
@@ -65,58 +87,6 @@ nav {
 
 #sticky:first-child {
     margin-right: 35px;
-}
-
-
-table, td, th{
-    border: 1px solid #6c93d6;
-}
-
-.bodyfont{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-.boldtext{
-    font-weight: bold;
-}
-
-.stylied-table {
-    border: 1px solid #6c93d6;
-    margin: 25px 0;
-    font-size: 0.9em;
-    font-family: 'november';
-    src: url("./Assets/november.ttf") format('truetype');
-    min-width: 400px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.);
-    }
-
-.stylied-table thead tr {
-    background-color: #6c93d6;
-    color: #ffffff;
-    text-align: left;
-}
-
-.stylied-table th, .styled-table td {
-    padding: 12px 15px
-}
-
-.stylied-table tbody tr {
-    border-bottom: 1px solid #dddddd;
-}
-
-.stylied-table tbody tr:nth-of-type(even) {
-    background-color: #6c93d6;
-    text-align: center;
-}
-
-.stylied-table tbody tr:last-of-type {
-    border-bottom: 2px solid #6c93d6;
-}
-
-.stylied-table tbody tr.active-row{
-    font-size: large;
-    font-weight: bold;
-    color: #395d9c;
 }
 
 #copyright
