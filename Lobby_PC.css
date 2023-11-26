@@ -1,0 +1,48 @@
+body{
+    margin: 10px;
+    background-color: #2f0d4a;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    min-width: fit-content;
+}
+
+main{
+    position: relative;
+}
+
+.position{
+    position: relative;
+}
+
+
+
+.div-selections:hover{
+    transition: 1.5s;
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.1);
+    transform: scale(1.05);
+}
+
+#PCButton{
+    top: -382px;
+    left: 278px;
+}
+
+#Folder1{
+    top: -742px;
+    left: -208px;
+}
+
+#Folder2{
+    top: -725px;
+    left: -208px;
+}
+
+#Folder3{
+    top: -708px;
+    left: -208px;
+}
+
+#title
+{
+    top: -1150px;
+}

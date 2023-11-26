@@ -1,0 +1,118 @@
+html, body{
+    margin: 10px;
+    background-color: #2f0d4a;
+    font-family: 'november';
+    src: url("./Assets/novem___.ttf") format('truetype');
+}
+h1{
+    color: #eea5cd;
+    font-size: 40px;
+    font-family: 'november';
+    src: url("./Assets/novem___.ttf") format('truetype');
+    text-align-last: center;
+}
+
+p{
+    color: #dd95bd;
+    font-family: 'november';
+    src: url("./Assets/novem___.ttf") format('truetype');
+}
+
+nav {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+}
+
+.nav-selections {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-family: 'november';
+    src: url("./Assets/novem___.ttf") format('truetype');
+    font-size: 16px;
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    padding: 10px; /*space between lines */
+    /*float: right;*/
+    margin-left: 5px;
+    transition: 1.5s;
+}
+
+.nav-selections:hover {
+    transition: 1.5s;
+    color: #2f0d4a;
+}
+
+
+#sticky {
+    /*
+    background-image: url("https://thumbs.dreamstime.com/b/long-road-4344318.jpg");
+    */
+    background-color: #9c4a93;
+    overflow: auto;
+    list-style-type: none;
+}
+
+#sticky:first-child {
+    margin-right: 35px;
+}
+
+
+table, td, th{
+    border: 1px solid #6c93d6;
+}
+
+.bodyfont{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.boldtext{
+    font-weight: bold;
+}
+
+.stylied-table {
+    border: 1px solid #6c93d6;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: 'november';
+    src: url("./Assets/novem___.ttf") format('truetype');
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.);
+    }
+
+.stylied-table thead tr {
+    background-color: #6c93d6;
+    color: #ffffff;
+    text-align: left;
+}
+
+.stylied-table th, .styled-table td {
+    padding: 12px 15px
+}
+
+.stylied-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.stylied-table tbody tr:nth-of-type(even) {
+    background-color: #6c93d6;
+    text-align: center;
+}
+
+.stylied-table tbody tr:last-of-type {
+    border-bottom: 2px solid #6c93d6;
+}
+
+.stylied-table tbody tr.active-row{
+    font-size: large;
+    font-weight: bold;
+    color: #395d9c;
+}
+
+#copyright
+{
+    text-align-last: center;
+}
+
+
