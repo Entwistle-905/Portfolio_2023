@@ -4,6 +4,15 @@ html, body{
     font-family: 'november';
     src: url("./Assets/november.ttf") format('truetype');
 }
+
+@font-face {
+    font-family: 'november';
+    src: url("./Assets/november.ttf") format('truetype');
+    font-weight: normal;
+    font-display: swap;
+}
+
+
 h1{
     color: #eea5cd;
     font-size: 40px;

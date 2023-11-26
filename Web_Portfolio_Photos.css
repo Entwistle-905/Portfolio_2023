@@ -8,6 +8,13 @@ html, body{
     min-width: fit-content;
 }
 
+@font-face {
+    font-family: 'november';
+    src: url("./Assets/november.ttf") format('truetype');
+    font-weight: normal;
+    font-display: swap;
+}
+
 
 h1{
     color: #ee59ab;
