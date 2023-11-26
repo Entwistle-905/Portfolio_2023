@@ -2,20 +2,20 @@ html, body{
     margin: 10px;
     background-color: #2f0d4a;
     font-family: 'november';
-    src: url("./Assets/novem___.ttf") format('truetype');
+    src: url("./Assets/november.ttf") format('truetype');
 }
 h1{
     color: #eea5cd;
     font-size: 40px;
     font-family: 'november';
-    src: url("./Assets/novem___.ttf") format('truetype');
+    src: url("./Assets/november.ttf") format('truetype');
     text-align-last: center;
 }
 
 p{
     color: #dd95bd;
     font-family: 'november';
-    src: url("./Assets/novem___.ttf") format('truetype');
+    src: url("./Assets/november.ttf") format('truetype');
 }
 
 nav {
@@ -28,7 +28,7 @@ nav {
     text-transform: uppercase;
     letter-spacing: 5px;
     font-family: 'november';
-    src: url("./Assets/novem___.ttf") format('truetype');
+    src: url("./Assets/november.ttf") format('truetype');
     font-size: 16px;
     display: inline-block;
     text-decoration: none;
@@ -76,7 +76,7 @@ table, td, th{
     margin: 25px 0;
     font-size: 0.9em;
     font-family: 'november';
-    src: url("./Assets/novem___.ttf") format('truetype');
+    src: url("./Assets/november.ttf") format('truetype');
     min-width: 400px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.);
     }

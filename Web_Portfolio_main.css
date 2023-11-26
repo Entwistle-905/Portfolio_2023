@@ -3,7 +3,7 @@ html, body{
     background-color: #4e2271;
     color: #dd95bd;
     font-family: 'november';
-    src: url("./Assets/novem___.ttf") format('truetype');
+    src: url("./Assets/november.ttf") format('truetype');
     text-align-last: center;
     min-width: fit-content;
 }
@@ -12,14 +12,14 @@ h1{
     color: #eea5cd;
     font-size: 40px;
     font-family: 'november';
-    src: url("./Assets/novem___.ttf") format('truetype');
+    src: url("./Assets/november.ttf") format('truetype');
     text-align-last: center;
 }
 
 p{
     color: #dd95bd;
     font-family: 'november';
-    src: url("./Assets/novem___.ttf") format('truetype');
+    src: url("./Assets/november.ttf") format('truetype');
     text-align-last: center;
     font-size: 16px;
 }
@@ -47,7 +47,7 @@ nav {
     text-transform: uppercase;
     letter-spacing: 5px;
     font-family: 'november';
-    src: url("./Assets/novem___.ttf") format('truetype');
+    src: url("./Assets/november.ttf") format('truetype');
     font-size: 16px;
     display: inline-block;
     text-decoration: none;
@@ -111,7 +111,7 @@ nav {
 
 .bodyfont{
     font-family: 'november';
-    src: url("./Assets/novem___.ttf") format('truetype');
+    src: url("./Assets/november.ttf") format('truetype');
 }
 
 .boldtext{

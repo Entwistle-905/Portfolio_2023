@@ -3,7 +3,7 @@ html, body{
     background-color: #4e2271;
     color: #dd95bd;
     font-family: 'november';
-    src: url("./Assets/novem___.ttf") format('truetype');
+    src: url("./Assets/november.ttf") format('truetype');
     text-align-last: center;
     min-width: fit-content;
 }
@@ -13,7 +13,7 @@ h1{
     color: #ee59ab;
     font-size: 35px;
     font-family: 'november';
-    src: url("./Assets/novem___.ttf") format('truetype');
+    src: url("./Assets/november.ttf") format('truetype');
     text-align-last: center;
 }
 
@@ -22,21 +22,21 @@ h3{
     color: #ff83c7;
     font-size: 25px;
     font-family: 'november';
-    src: url("./Assets/novem___.ttf") format('truetype');
+    src: url("./Assets/november.ttf") format('truetype');
     text-align-last: center;
 }
 h4{
     color: #de72ff;
     font-size: 20px;
     font-family: 'november';
-    src: url("./Assets/novem___.ttf") format('truetype');
+    src: url("./Assets/november.ttf") format('truetype');
     text-align-last: center;
 }
 
 p{
     color: #dd95bd;
     font-family: 'november';
-    src: url("./Assets/novem___.ttf") format('truetype');
+    src: url("./Assets/november.ttf") format('truetype');
     text-align-last: center;
     font-size: 20px;
 }
@@ -82,7 +82,7 @@ a:active {
     position: relative;
     color: #2f0d4a;
     font-family: 'november';
-    src: url("./Assets/novem___.ttf") format('truetype');
+    src: url("./Assets/november.ttf") format('truetype');
     top: -1000px;
 }
 
@@ -91,7 +91,7 @@ a:active {
     position: relative;
     color: #2f0d4a;
     font-family: 'november';
-    src: url("./Assets/novem___.ttf") format('truetype');
+    src: url("./Assets/november.ttf") format('truetype');
     top: -400px;
 }
 
@@ -111,7 +111,7 @@ a:active {
     text-transform: uppercase;
     letter-spacing: 5px;
     font-family: 'november';
-    src: url("./Assets/novem___.ttf") format('truetype');
+    src: url("./Assets/november.ttf") format('truetype');
     font-size: 16px;
     display: inline-block;
     text-decoration: none;
@@ -141,7 +141,7 @@ a:active {
 
 .bodyfont{
     font-family: 'november';
-    src: url("./Assets/novem___.ttf") format('truetype');
+    src: url("./Assets/november.ttf") format('truetype');
 }
 
 .boldtext{
