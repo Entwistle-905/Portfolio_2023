@@ -45,3 +45,25 @@ main{
 {
     top: -1150px;
 }
+
+#profile{
+    top: -972px;
+    left: -82px;
+    width: 164px;
+    height: 52px;
+}
+
+#portfolio{
+    top: -960px;
+    left: -70px;
+    width: 188px;
+    height: 52px;
+}
+
+#contact{
+    top: -948px;
+    left: -82px;
+    width: 164px;
+    height: 52px;
+}
+
